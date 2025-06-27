@@ -14,6 +14,7 @@ let accountstate;                // -> -> value is not assign here so output wil
 
 accountEmail="abc@com"
 accountPassword= "567"
+
 accountCity= "Delhi"
 console.table([accountId,accountEmail,accountPassword,accountCity,accountstate]);     // -> -> INSTEAD OF WRITING CONSOLE.LOG DIFFERENTLY FOR EACH VARIABLE WE USE CONSOLE.TABLE IT WILL PRINT ALL VARIABLES VALUE IN 1 TABLE IN USING THIS SINGLE STATEMENT ONLY
 
